@@ -1,0 +1,14 @@
+{
+  "name": "homework2",
+  "version": "1.0.0",
+  "description": "creating a json package. Practicing different ways to implement promises",
+  "main": "request-template.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Salvador Cornejo",
+  "license": "ISC",
+  "dependencies": {
+    "superagent": "^8.0.9"
+  }
+}
